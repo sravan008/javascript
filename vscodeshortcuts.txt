@@ -1,0 +1,1 @@
+clg - shortcut to create a console.log
